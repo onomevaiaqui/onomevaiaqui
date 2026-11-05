@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "version": "0.0.1",
+  "files": [
+    "game.lua",
+    "lupi_animation_frames/frame_454635797d4a1c40",
+    "lupi_animation_frames/frame_7caab8f73683d32c",
+    "lupi_animation_frames/frame_9491ec1ec6de1186",
+    "lupi_animation_frames/frame_d70d088b9922e1f7",
+    "lupi_animation_frames/frame_eef529073f29d42e",
+    "lupi_images/tiles",
+    "lupix_animations/Player_anim.lua",
+    "lupix_entry.lua",
+    "lupix_maps/TileMapMap.lua",
+    "lupix_runtime.lua",
+    "lupix_scene.lua",
+    "lupix_scenes/Main.lua",
+    "palette.lua",
+    "lupi.yaml",
+    "lupi_manifest.txt",
+    ".lupix-published.json",
+    "lupix-export-report.json"
+  ]
+}
