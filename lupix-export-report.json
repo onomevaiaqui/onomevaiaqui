@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "game": "Robo",
-  "codec": "lupi-codec profile port \u00B7 BGR555 \u00B7 indexed sprites",
+  "codec": "lupi-codec profile port · BGR555 · indexed sprites",
   "imageCount": 6,
   "generatedAnimationFrames": 5,
   "animationSheetsReplacedByTrimmedFrames": [
